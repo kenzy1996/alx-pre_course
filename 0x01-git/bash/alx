@@ -4,5 +4,13 @@ echo "ALX"
 echo "ALX"
 £!/bin/bash
 echo "ALX school
+<<<<<<< HEAD
+is so cool
 "
+£!/bin/bash
+echo "ALX school"
+
+=======
+"
+>>>>>>> update_script
 
