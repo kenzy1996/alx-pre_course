@@ -1,7 +1,15 @@
 £!/bin/bash
+<<<<<<< HEAD
 echo "The school is open!"
 
 
 
+>>>>>>> update_script
+=======
+<<<<<<< HEAD
+echo "school is open"
+=======
+echo "The school is open"
+>>>>>>> new_branch
 >>>>>>> update_script
 
