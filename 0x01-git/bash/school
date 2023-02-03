@@ -1,3 +1,7 @@
 £!/bin/bash
+<<<<<<< HEAD
 echo "school is open"
+=======
+echo "The school is open"
+>>>>>>> new_branch
 
